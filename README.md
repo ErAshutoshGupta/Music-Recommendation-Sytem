@@ -12,4 +12,4 @@
 [input_tracks.csv](https://github.com/AnitaSoroush/MusicRecommendationSystem/blob/main/input_tracks.csv) is a sample of input file and [pl1.csv](https://github.com/AnitaSoroush/MusicRecommendationSystem/blob/main/pl1.csv), [pl2.csv](https://github.com/AnitaSoroush/MusicRecommendationSystem/blob/main/pl2.csv), [pl3.csv](https://github.com/AnitaSoroush/MusicRecommendationSystem/blob/main/pl3.csv), [pl4.csv](https://github.com/AnitaSoroush/MusicRecommendationSystem/blob/main/pl4.csv),  [pl5.csv](https://github.com/AnitaSoroush/MusicRecommendationSystem/blob/main/pl5.csv) and [single_playlist.csv](https://github.com/AnitaSoroush/MusicRecommendationSystem/blob/main/single_playlist.csv) are the outputs of the recommender based on this input file.
 
 
-[music_recommender_report.pdf](https://github.com/AnitaSoroush/MusicRecommendationSystem/blob/main/music_recommender_report.pdf) contains a complete explanation of the code and defferent parts of the project.
+
